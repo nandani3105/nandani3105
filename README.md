@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nandani</h1>
 <h3 align="center">A passionate frontend developer from India and I loves building cool things, solving problems, and learning along the way. Most of my work revolves around web development, and I'm always experimenting with new ideas</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nandani3105&label=Profile%20views&color=0e75b6&style=flat" alt="nandani3105" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nandani3105&label=Profile%20views&color=0e75b6&style=flat" alt="nandani3105" /> </p>-->
 
 
 
@@ -25,4 +25,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandani3105&" alt="nandani3105" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandani3105&show_icons=true&locale=en&layout=compact" alt="nandani3105" /></p>
+
+<h3 align="left">Github Trophies:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandani3105" alt="nandani3105" /></a> </p>
+
+
+
 
