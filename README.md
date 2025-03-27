@@ -26,6 +26,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandani3105&show_icons=true&locale=en&layout=compact" alt="nandani3105" /></p>
 <br>
+
 <h3 align="left">Github Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandani3105" alt="nandani3105" /></a> </p>
+
 
