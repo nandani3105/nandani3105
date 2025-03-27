@@ -29,7 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandani3105&show_icons=true&locale=en&layout=compact" alt="nandani3105" /></p>
 <br><br>
-<hr>
 
 
 
