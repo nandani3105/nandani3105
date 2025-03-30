@@ -4,7 +4,8 @@
 
 <h3 align="left">About me:</h3>
 <hr>
-- 🔭 I’m currently working on **various open-source projects.**
+
+- 🔭 I’m currently working on **various open-source projects**
 
 - 🌱 I’m currently learning **Django Framework and AWS**
 
@@ -36,7 +37,8 @@
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandani3105&show_icons=true&locale=en&layout=compact" alt="nandani3105" /></p>
 
-<h3 aling='center'>Thank You For Visiting ! Have A Great Day Ahead!</h3>
+
+
 
 
 
