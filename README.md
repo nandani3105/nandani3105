@@ -3,13 +3,15 @@
 <h3 align="center">A passionate frontend developer from India and I loves building cool things, solving problems, and learning along the way. Most of my work revolves around web development, and I'm always experimenting with new ideas</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=nandani3105&label=Profile%20views&color=0e75b6&style=flat" alt="nandani3105" /> </p>-->
-
-
-
-- 🌱 I’m currently learning **django framework**
-
-- 📫 How to reach me **nandanikumari312003@gmail.com**
-
+<hr>
+<h3 align="left">About me:</h3>
+-🔭 I’m currently working on various open-source projects.
+- 🌱 I’m currently learning **django framework and aws**
+-👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
+-💬 Ask me about web development, Python, and open-source contributions.
+-😄 Pronouns: She/her
+📫 How to reach me **nandanikumari312003@gmail.com**
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/knandani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="knandani" height="30" width="40" /></a>
@@ -24,12 +26,13 @@
 <hr>
 <h3 align="left">Github Status:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandani3105&show_icons=true&locale=en" alt="nandani3105" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandani3105&" alt="nandani3105" /></p>
 
+
+<h3 align="left">Top Languages:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandani3105&show_icons=true&locale=en&layout=compact" alt="nandani3105" /></p>
 <br><br>
-
+<h3 aling ="center">Thank You For Visiting ! Have a great day ahead  </h3>
 
 
 
