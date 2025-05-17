@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nandani</h1>
-<h3 align="center">A passionate frontend developer from India and I loves building cool things, solving problems, and learning along the way. Most of my work revolves around web development, and I'm always experimenting with new ideas</h3>
+<h3 align="center">A passionate  developer from India and I loves building cool things, solving problems, and learning along the way. Most of my work revolves around real world problem , and I'm always experimenting with new ideas </h3>
 
 <h3 align="left">💫About me:</h3>
 <hr>
